@@ -2,7 +2,7 @@
   "name": "JacqulineMbogo Software Engineer",
   "version": "1.0.0",
   "homepage": "https://jacqulinembogo.github.io/SoftwareEngineer-Portfolio",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
