@@ -26,6 +26,23 @@ const Home = () => {
         >
           <div className="w-full flex justify-between  px-4">
             <div className="flex items-center">
+              {/* dark and light mode button */}
+
+              {!check ? (
+                  <span
+                      onClick={() => handle("dark")}
+                      className="bg-white w-[40px] h-[40px] lg:w-[50px] lg:h-[50px] rounded-full flex justify-center items-center hover:bg-[#ef4060] text-black hover:text-white transition-all duration-300 ease-in-out cursor-pointer  "
+                  >
+                  <FiMoon className=" text-3xl " />
+                </span>
+              ) : (
+                  <span
+                      onClick={() => handle("light")}
+                      className="bg-[#4D4D4D] w-[40px] h-[40px] lg:w-[50px] lg:h-[50px] rounded-full flex justify-center items-center hover:bg-[#ef4060] transition-all duration-300 ease-in-out cursor-pointer  "
+                  >
+                  <FiSun className="text-white text-3xl" />
+                </span>
+              )}
               {/* mobile menu button */}
 
               {!menuOpen ? (
