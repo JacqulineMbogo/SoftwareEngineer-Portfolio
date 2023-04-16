@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { FiMoon, FiSun } from "react-icons/fi";
-import { Link, Outlet, useLocation } from "react-router-dom";
+import { Outlet, useLocation } from "react-router-dom";
 import UseData from "../../Hooks/UseData";
 import Header from "../../Share/Header";
 import HomeCard from "../../Share/HomeCard";

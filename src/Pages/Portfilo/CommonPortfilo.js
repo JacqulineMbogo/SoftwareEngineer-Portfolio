@@ -1,7 +1,5 @@
-import React, { useState } from "react";
-import Masonry from "react-masonry-css";
+import React from "react";
 import Modal from "react-modal";
-import UseData from "../../Hooks/UseData";
 import Footer from "../../Share/Footer";
 import PageTitle from "../../Share/PageTitle";
 
