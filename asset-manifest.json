@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SoftwareEngineer-Portfolio/static/css/main.a0f99ba8.css",
-    "main.js": "/SoftwareEngineer-Portfolio/static/js/main.6c1eacf5.js",
+    "main.css": "/SoftwareEngineer-Portfolio/static/css/main.7d13b4eb.css",
+    "main.js": "/SoftwareEngineer-Portfolio/static/js/main.602e77a3.js",
     "static/media/bg.png": "/SoftwareEngineer-Portfolio/static/media/bg.300f33b46a224efadb0a.png",
     "static/media/cv.webp": "/SoftwareEngineer-Portfolio/static/media/cv.174d8bc4469f8aa7c5fa.webp",
     "static/media/icon-5.svg": "/SoftwareEngineer-Portfolio/static/media/icon-5.b7ce008f06241f1d51b48260af8b73f4.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-6.svg": "/SoftwareEngineer-Portfolio/static/media/icon-6.7a458dd3dce6df96d462489320d4a456.svg",
     "static/media/icon-1.svg": "/SoftwareEngineer-Portfolio/static/media/icon-1.71b741a6ab73765534e80db0a934febd.svg",
     "index.html": "/SoftwareEngineer-Portfolio/index.html",
-    "main.a0f99ba8.css.map": "/SoftwareEngineer-Portfolio/static/css/main.a0f99ba8.css.map",
-    "main.6c1eacf5.js.map": "/SoftwareEngineer-Portfolio/static/js/main.6c1eacf5.js.map"
+    "main.7d13b4eb.css.map": "/SoftwareEngineer-Portfolio/static/css/main.7d13b4eb.css.map",
+    "main.602e77a3.js.map": "/SoftwareEngineer-Portfolio/static/js/main.602e77a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0f99ba8.css",
-    "static/js/main.6c1eacf5.js"
+    "static/css/main.7d13b4eb.css",
+    "static/js/main.602e77a3.js"
   ]
 }
