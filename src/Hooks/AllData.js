@@ -75,12 +75,6 @@ const AllData = () => {
       icon: <AiOutlineHome />,
     },
     {
-      id: "02",
-      name: "About",
-      link: "/about",
-      icon: <FaRegUser />,
-    },
-    {
       id: "03",
       name: "Works",
       link: "/works",
@@ -160,7 +154,7 @@ const AllData = () => {
       id: 2,
       date: "2021",
       title: "Full Stack Software Developer",
-      place: "ib-themes ltd.",
+      place: "Fintech Group",
       bg: "#F2F4FF",
     },
 
