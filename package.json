@@ -1,7 +1,7 @@
 {
   "name": "JacqulineMbogo Software Engineer",
   "version": "1.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://jacqulinembogo.github.io/SoftwareEngineer-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -25,7 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "prod-deploy -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
