@@ -1,7 +1,7 @@
 {
   "name": "JacqulineMbogo Software Engineer",
   "version": "1.0.0",
-  "homepage": "https://jacqulinembogo.github.io/SoftwareEngineer-Portfolio",
+  "homepage": "https://jacqulinembogo.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
